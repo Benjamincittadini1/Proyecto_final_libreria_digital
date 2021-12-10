@@ -1,0 +1,135 @@
+
+
+[
+    {
+        "id":1,
+        "title":"1984",
+        "author":"George Orwell",
+        "description":"Winston Smith decide rebelarse ante un gobierno totalitario que controla cada uno de los movimientos de sus ciudadanos y castiga incluso a aquellos que delinquen con el pensamiento.",
+        "price":300,
+        "category": "libros",
+        "pictureurl":"https://ih1.redbubble.net/image.632703468.6415/flat,128x128,075,f-pad,128x128,f8f8f8.u6.jpg",
+        "stock":5
+    },
+    {
+        "id":2,
+        "title":"Orgullo y Prejuicio",
+        "author":"Jane Austin",
+        "description":"Con la llegada del rico y apuesto Mr. Darcy a su región, las vidas de los Bennet y sus cinco hijas se vuelven del revés. El orgullo y la distancia social, la astucia y la hipocresía, los malentendidos y los juicios apresurados abocan a sus personajes al escándalo y al dolor, pero también a la comprensión, el conocimiento y el amor verdadero.",
+        "price":250,
+        "category": "libros",
+        "pictureurl":"https://descargas.ams3.digitaloceanspaces.com/images/7860/orgullo-y-prejuicio_icon_android.jpg",
+        "stock":4
+    },
+    {
+        "id":3,
+        "title":"Matar un ruiseñor",
+        "author":"Harper Lee",
+        "description":"Jean Louise Finch evoca una época de su infancia en Alabama, cuando su padre, Atticus, decidió defender ante los tribunales a un hombre negro acusado de violar a una mujer blanca. Novela de iniciación, Matar a un ruiseñor muestra una comunidad, la del sur de Estados Unidos durante la década de 1930, dominada por los prejuicios raciales, la desconfianza hacia lo diferente, la rigidez de los vínculos familiares y vecinales, así como por un sistema judicial sin apenas garantías para la población de color.",
+        "price":300,
+        "category": "libros",
+        "pictureurl":"http://quelibroleo.com/images/libros/libro_1322195744.jpg",
+        "stock":7
+    },
+    {
+        "id":4,
+        "title":"La casa de los espíritus",
+        "author":"Isabel Allende",
+        "description":"El despótico patriarca Esteban Trueba ha construido con mano de hierro un imperio privado que empieza a tambalearse con el paso del tiempo y un entorno social explosivo. Finalmente, la decadencia personal del patriarca arrastrará a los Trueba a una dolorosa desintegración. Atrapados en unas dramáticas relaciones familiares, los personajes de esta poderosa novela encarnan las tensiones sociales y espirituales de una época que abarca gran parte del siglo XX.",
+        "price":250,
+        "category": "libros",
+        "pictureurl":"https://imagessl4.casadellibro.com/a/l/t5/34/9788483462034.jpg",
+        "stock":6
+    },
+    {
+        "id":5,
+        "title":"Diez negritos",
+        "author":"Agatha Christie",
+        "description":"Diez personas sin relación alguna entre sí son reunidas en un misterioso islote de la costa inglesa por un tal Sr. Owen, propietario de una lujosa mansión a la par que perfecto desconocido para todos sus invitados. Tras la primera cena, y sin haber conocido aún a su anfitrión, los diez comensales son acusados mediante una grabación de haber cometido un crimen en el pasado. Uno por uno, a partir de ese momento, son asesinados sin explicación ni motivo aparente. Sólo una vieja canción infantil parece encerrar el misterio de una creciente pesadilla.",
+        "price":150,
+        "category": "libros",
+        "pictureurl":"https://imagessl0.casadellibro.com/a/l/t5/90/9788467045390.jpg",
+        "stock":5
+    },
+    {
+        "id":6,
+        "title":"El tiempo entre costuras",
+        "author":"María Dueñas",
+        "description":"La joven modista Sira Quiroga abandona Madrid en los meses previos al alzamiento, arrastrada por el amor desbocado hacia un hombre a quien apenas conoce. Juntos se instalan en Tánger, una ciudad mundana, exótica y vibrante donde todo lo impensable puede hacerse realidad. Incluso, la traición y el abandono. Sola y acuciada por deudas ajenas, Sira se traslada a Tetuán, la capital del Protectorado español en Marruecos. Con argucias inconfesables y ayudada por amistades de reputación dudosa, forja una nueva identidad y logra poner en marcha un selecto atelier en el que atiende a clientas de orígenes remotos y presentes insospechados.",
+        "price":400,
+        "category": "libros",
+        "pictureurl":"https://imagessl8.casadellibro.com/a/l/t5/08/9788408187608.jpg",
+        "stock":7
+    },
+    {
+        "id":7,
+        "title":"Harry Potter y la piedra filosofal",
+        "author":"J.K. Rowling",
+        "description":"Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y el insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el Colegio Hogwarts de Magia.",
+        "price":400,
+        "category": "sagas",
+        "pictureurl":"https://m.media-amazon.com/images/I/71xQ5ijeYHL._CR0,204,1224,1224_UX256.jpg",
+        "stock":4
+    },
+    {
+        "id":8,
+        "title":"Harry Potter y la cámara secreta",
+        "author":"J.K. Rowling",
+        "description":"Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y el insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el Colegio Hogwarts de Magia.",
+        "price":400,
+        "category": "sagas",
+        "pictureurl":"https://m.media-amazon.com/images/I/515J1emcbkL.jpg",
+        "stock":3
+    },
+    {
+        "id":9,
+        "title":"Harry Potter y el prisionero de Azkaban",
+        "author":"J.K. Rowling",
+        "description":"El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión de Azkaban.",
+        "price":400,
+        "category": "sagas",
+        "pictureurl":"https://imagessl8.casadellibro.com/a/l/t5/28/9788418173028.jpg",
+        "stock":10
+    },
+    {
+        "id":10,
+        "title":"Harry Potter y el cáliz de fuego",
+        "author":"J.K. Rowling",
+        "description":"Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y el insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el Colegio Hogwarts de Magia.",
+        "price":400,
+        "category": "sagas",
+        "pictureurl":"https://imagessl0.casadellibro.com/a/l/t5/10/9788418173110.jpg",
+        "stock":8
+    },
+    {
+        "id":11,
+        "title":"Harry Potter y la orden del fénix",
+        "author":"J.K. Rowling",
+        "description":"Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y el insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el Colegio Hogwarts de Magia.",
+        "price":400,
+        "category": "sagas",
+        "pictureurl":"https://m.media-amazon.com/images/I/51Y6Exe5UiL._SY346_.jpg",
+        "stock":6
+    },
+    {
+        "id":12,
+        "title":"Harry Potter y el misterio del príncipe",
+        "author":"J.K. Rowling",
+        "description":"Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y el insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el Colegio Hogwarts de Magia.",
+        "price":450,
+        "category": "sagas",
+        "pictureurl":"https://kbimages1-a.akamaihd.net/14ed6713-55e6-4e17-a7c8-52d211c11b7a/1200/1200/False/harry-potter-y-el-misterio-del-principe-1.jpg",
+        "stock":7
+    },
+    {
+        "id":13,
+        "title":"Harry Potter y las reliquias de la muerte",
+        "author":"J.K. Rowling",
+        "description":"Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y el insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el Colegio Hogwarts de Magia.",
+        "price":450,
+        "category": "sagas",
+        "pictureurl":"https://i1.wp.com/bloghogwarts.com/wp-content/uploads/2007/07/77.jpg",
+        "stock":6
+    }
+
+]

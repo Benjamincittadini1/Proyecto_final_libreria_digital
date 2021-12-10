@@ -1,0 +1,309 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-shadow: rgba(173, 173, 173, 0.767) 1px 1px;
+}
+
+/*-------------------------------------------------HEADER---------------------------------------------------------*/
+body{
+    background-color: rgb(203, 182, 230);
+}
+.principalHeader {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    align-items:flex-start;
+    background-image: url(./multimedia/fondo_libroteca.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 546px;
+    box-shadow: rgba(168, 168, 168, 0.753) 2px 2px;
+}
+
+.principalHeader nav {
+    color: white;
+    margin: 25px 40px;
+}
+
+.menu a {
+    margin: 5px 15px;
+    color: black;
+    font-weight: bold;
+    font-size: 15pt;
+    color: white;
+}
+
+.widgetNumber {
+    color: white;
+    font-weight: 400;
+    font-size: 13pt;
+}
+
+/*------------------------------------------------CONTAINER---------------------------------------------------------*/
+
+.asaid {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.asaid h2 {
+    margin-bottom: 20px;
+    font-size: 30pt;
+}
+
+
+.titleProduct {
+    display: flex;
+    justify-content: center;
+}
+.title{
+    color: rgb(49, 47, 47);
+}
+/*COUNT*/
+
+.textStock{
+    font-size: 10pt;
+    margin-bottom: 8px;
+}
+
+.keypad {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    border: rgb(82, 82, 128) solid 2px;
+    border-radius: 5px;
+}
+
+.keypad button {
+    margin: 0 15px 0 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(203, 182, 230);
+    border: none;
+}
+
+.buttonAdd {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.buttonAddState {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.buttonCart {
+    padding: 6px;
+    margin: 0 15px 0 15px;
+    font-weight: 500;
+    color: white;
+    background-color: rgb(63, 63, 122);
+    border-radius: 5px;
+}
+
+.finishShop {
+    padding: 6px;
+    margin: 10px 15px 0 15px;
+    font-weight: 500;
+    color: white;
+    background-color: rgb(23, 23, 78);
+    border-radius: 5px;
+}
+
+.btnRemove {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    background-color: rgb(179, 15, 15);
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.btnEmpty {
+    padding: 6px;
+    text-align: center;
+    color: white;
+    background-color: rgb(179, 15, 15);
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+
+.sales {
+    margin: 80px 0 0 30px;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.productCatalog {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items:center;
+    text-align: justify;
+    padding: 20px;
+}
+
+.productCatalogItems {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    margin: 20px 0px;
+}
+.productCatalog .productCatalogItems:hover{
+    transform: scale(1.1);
+    transition: 1.5s;
+}
+.itemMore {
+    color: rgb(63, 63, 122);
+}
+
+.coderHouse {
+    text-align: center;
+}
+
+/*--------------------------------------------------------FORM--------------------------------------------------------------*/
+
+.formContainer{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.formContainer button {
+    margin-bottom: 20px;
+}
+
+.formTitle{
+    font-size: 30pt;
+    font-family: 'Parisienne', cursive;
+    margin-bottom: 30px;
+}
+
+.formContainerInput{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.formInput input{
+    margin: 20px 7px 30px 60px;
+    padding: 10px;
+    color:rgb(23, 23, 78);
+    border: rgb(23, 23, 78) solid 2px;
+    border-radius: 5px;
+}
+
+
+/*--------------------------------------------------------CART--------------------------------------------------------------*/
+
+.textCart {
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    font-size: 35pt;
+    text-align: center;
+}
+
+.textCartFinish {
+    color: rgb(24, 0, 44);
+    text-transform: uppercase;
+    margin: 20px;
+    font-size: 15pt;
+    text-align: center;
+}
+
+.containerCart {
+    display: flex;
+    flex-flow: column wrap;
+    margin: 50px 0px;
+}
+
+.containerProduct {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px 0px;
+}
+
+.containerProduct h4{
+    border-right: black solid 2px;
+    padding-right: 40px;
+}
+
+.keypadCart {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+
+.orderConfirmation{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 80px 20px;
+}
+
+.textOrder{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.textOrder button{
+    margin: 50px;
+}
+
+.orderId{
+    color: rgb(103, 9, 131);
+}
+
+/*-------------------------------------------------------FOOTER-------------------------------------------------------------*/
+
+
+footer {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    background-color: rgb(98, 98, 194);
+    margin-top: 20px;
+}
+
+.textFooter {
+    margin-bottom: 10px;
+    font-size: 9pt;
+    color: rgb(0, 0, 0);
+}
+
+.socialNetworks {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.socialNetworks a {
+    padding: 0 100px;
+    color: rgb(240, 240, 240);
+    font-size: 16pt;
+}
+
